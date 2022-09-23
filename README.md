@@ -10,10 +10,10 @@ For reading the document I used DOM API and for writing the new documents I used
 For watching the input folders for new files I have used WatchService interface. The paths to input and output folders have been extracted to a config.properties file and can be easily modified. Errors
 are logged using Logger.
 
-##Requirements
+## Requirements
 JDK 17 or higher.
 
-##Installation
+## Installation
 Clone repo and run Main().
 
 
