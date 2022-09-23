@@ -11,7 +11,7 @@ For watching the input folders for new files I have used WatchService interface.
 are logged using Logger.
 
 ## Requirements
-JDK 17 or higher.
+Maven and JDK 17 or higher.
 
 ## Installation
 Clone repo and run Main().
